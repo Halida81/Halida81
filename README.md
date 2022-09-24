@@ -9,10 +9,10 @@
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://t.me/HalidaSydyk">
-    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Telegram Badge"/>
+    <img src="https://img.shields.io/badge/Telegram-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Telegram Badge"/>
   </a>
   <a href="halidas81@gmail.com">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Gmail"/>
+    <img src="https://img.shields.io/badge/Gmail-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Gmail"/>
   </a>
 </div>
 <div id="badges">
