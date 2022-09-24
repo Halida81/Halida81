@@ -2,7 +2,7 @@
 <h3 align="center">A passionate frontend developer from Kyrgyzstan</h3>
 
 <h3 align="left">Connect with me:</h3>
-<a href="mailto:halidas81@gmail.com">
+<a href="mailto:@halidas81@gmail.com">
 <p align="left">
 </p>
 
