@@ -4,7 +4,17 @@
 </div>
 
 <h3 align="left">Connect with me:</h3>
-<a href="mailto:@halidas81@gmail.com">
+<div id="badges">
+  <a href="https://www.linkedin.com/in/halida-sydykova-8b3a11240/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://t.me/HalidaSydyk">
+    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Telegram Badge"/>
+  </a>
+  <a href="halidas81@gmail.com">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Gmail"/>
+  </a>
+</div>
 <p align="left">
 </p>
 
