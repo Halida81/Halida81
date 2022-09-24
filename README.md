@@ -12,7 +12,7 @@
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=blue" alt="Telegram Badge"/>
   </a>
   <a href="halidas81@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Gmail"/>
+    <img src="https://img.shields.io/badge/Gmail-blue?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
 </div>
 <div id="badges">
